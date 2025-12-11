@@ -1,0 +1,2523 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="icon" href="IMAGES/driver.png" type="image/x-icon">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-introspectivedsgn-17507692.jpg) no-repeat center center;
+        background-size: cover;
+        min-height: 100vh;
+        padding: 20px;
+        background-attachment: fixed;
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+            "Noto Sans", "Liberation Sans", sans-serif,
+            "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: black;
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+
+    ul li a:active {
+        text-decoration: underline;
+        color: white;
+    }
+
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+
+    .about {
+        background-color: white;
+        padding: 5px;
+        padding-left: 100px;
+        width: auto;
+        margin-left: 50px;
+        margin-top: 50px;
+        margin-right: 800px;
+        border-radius: 10px;
+        color: black;
+        margin-bottom: 40px;
+    }
+
+    .about1 {
+        background-color: white;
+        padding: 5px;
+        padding-left: 100px;
+        width: auto;
+        margin-left: 800px;
+        margin-top: 50px;
+        margin-right: 50px;
+        border-radius: 10px;
+        color: black;
+        margin-bottom: 40px;
+    }
+</style>
+
+<body>
+    <marquee behavior="scroll" direction="left" scrollamount="20"><b>Enquire now : CHENNAI - 1234567890 ; BANGALORE -
+            0987654321</b></marquee>
+    <br><br>
+
+    <div>
+        <ul>
+            <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+            <li><a href="homepage.html">Home</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="contactus.html">Contact</a></li>
+            <li><a href="tarrif.html">Tarrif</a></li>
+            <li><a href="About.html">AboutUs</a></li>
+        </ul>
+    </div>
+    <div>
+    </div>
+    <div class="about" align="center">
+        <img src="driver.png" alt="Driver" width="40px" height="40px"> <br>
+        <h3>Expert Drivers</h3>
+        <p align="justify">1. Our drivers are professional, reliable, and committed to providing you with a safe and
+            smooth experience. <br><br>
+            2. They are well-trained, courteous, and always ready to assist you, ensuring your journey is comfortable
+            and
+            hassle-free. <br> <br>3. You can trust our drivers to take care of you every step of the way. <br><br>4.
+            Drivers are highly trained,
+            experienced, and dedicated to providing a safe and smooth ride every time.</p>
+        <br>
+
+    </div>
+    <div class="about1" align="center">
+        <br>
+        <img src="luxury-car.png" alt="Cars" width="40px" height="40px"> <br>
+        <h3>maintenance</h3>
+        <p align="justify">1. All our vehicles undergo routine maintenance and professional inspections at authorized
+            service centers. We ensure engine health, brake efficiency, and fluid levels are always in top condition for
+            a smooth and safe ride. <br><br> 2. Before every trip, our drivers perform a quick safety check — including
+            tyre pressure, lights, wipers, fuel level, and overall cleanliness<br><br> 3. We maintain high hygiene
+            standards, ensuring every car is
+            cleaned, sanitized, and deodorized before each trip. This provides passengers with a fresh, comfortable,
+            and safe travel experience every time.</journey> <br><br> 4. We too ffer Luxury cars like BMW , Mercedes
+            , Audi etc...</p>
+        <br>
+
+    </div>
+    <div class="about" align="center">
+        <br>
+        <img src="document.png" alt="Documents" width="40px" height="40px"> <br>
+        <h3>Documentation</h3>
+        <p align="justify" style="padding-right: 15px;">1. We take full responsibility for the legal and safety
+            standards of our vehicles. <br><br>
+            2. Every car is provided with
+            complete, valid, and up-to-date documents, including registration papers, insurance coverage, and fitness
+            certificates. <br><br> 3. This ensures that you can travel safely and with complete peace of mind, knowing
+            that all
+            requirements have been thoroughly taken care of.</p>
+        <br>
+    </div>
+    <div class="about1" align="center">
+        <br>
+        <img src="shield.png" alt="Documents" width="40px" height="40px"> <br>
+        <h3>Top Safety Measure</h3>
+        <p align="justify" style="padding-right: 15px;">1. Customers can track their trip in real-time and have access
+            to a 24/7 emergency helpline
+            orSOS button, ensuring quick response and safety in any unexpected situation. <br><br> 2. Our system
+            continuously monitors the driver’s route and detects unusual stops or deviations, alerting our safety team
+            instantly to ensure every trip stays on the right path. <br><br> 3. All drivers follow strict safety
+            protocols, including wearing seatbelts, maintaining a zero alcohol policy, and ensuring clean, sanitized
+            vehicles for every trip. <br><br> 4. Customers can track their driver’s live location through our secure
+            tracking
+            system and share their trip details with family or friends for extra peace of mind.</p>
+        <br>
+    </div>
+    <div class="about" align="center">
+        <br>
+        <img src="clock.png" alt="Documents" width="40px" height="40px"> <br>
+        <h3>Perfect Timing</h3>
+        <p align="justify" style="padding-right: 15px;">1. perfect timing with reliable scheduling, real-time tracking,
+            and punctual drivers to ensure you’re always on time. <br><br>
+            2. With our real-time booking and tracking system, customers can schedule trips accurately and track driver
+            arrival live — guaranteeing complete transparency and punctual service. <br><br> 3. Our drivers use advanced
+            navigation and traffic monitoring tools to choose the fastest and most efficient routes, helping customers
+            reach their destination on time, every time.</p>
+        <br>
+    </div>
+    <div class="about1" align="center">
+        <br>
+        <img src="wage.png" alt="Documents" width="40px" height="40px"> <br>
+        <h3>Affordable Fees</h3>
+        <p align="justify" style="padding-right: 15px;">1. offers an affordable fee structure, providing reliable rides
+            without compromising on quality or safety. <br><br> 2.We believe in clear and upfront pricing — no hidden
+            charges, no surprises. Customers can see the fare before booking, ensuring complete trust and clarity in
+            every transaction. <br><br> 3. Our goal is to provide premium driving services at the most competitive
+            rates. With experienced drivers, reliable cars, and quality assurance, customers get maximum value for every
+            rupee spent. <br><br> 4. We offer flexible and affordable plans such as hourly, daily, and outstation
+            packages to suit every customer’s need. This helps you save more while enjoying professional service.</p>
+        <br>
+    </div>
+    <div align="center">
+        <a href="homepage.html">Home</a>
+        <a href="">Contact</a>
+
+    </div>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <style>
+        body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-introspectivedsgn-17507692.jpg) no-repeat center center;
+        background-size: cover;
+        min-height: 100vh;
+        padding: 20px;
+        background-attachment: fixed;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: black;
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+    ul li a:active{
+        text-decoration: underline;
+        color: white;
+    }
+
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+    .card{
+        background-color: transparent;
+        border: none;
+    }
+    .contact{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .hourly{
+        background-color: white;
+        padding: 20px;
+        width: 250px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px;
+        color: black;
+        margin-left: 300px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .hourly:hover{
+      transform: translateY(-10px);
+      background-color: rgb(213, 233, 235);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+
+    .branch{
+        background-color: white;
+        padding: 20px;
+        width: 250px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px;
+        color: black;
+        margin-left: 250px;
+         margin-top: 50px;
+          margin-bottom: 50px;
+    }
+    .branch:hover{
+      transform: translateY(-10px);
+      background-color: rgb(213, 233, 235);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+
+
+    </style>
+</head>
+<body>
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+     <div class="marquee">
+            <marquee behavior="scroll" direction="left" scrollamount="10"><b>Enquire now : CHENNAI - 1234567890 ;
+                    BANGALORE - 0987654321</b></marquee>
+        </div>
+        <div>
+            <ul>
+                <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li><a href="tarrif.html">Tarrif</a></li>
+                <li><a href="About.html">AboutUs</a></li>
+            </ul>
+        </div>
+        <div class="contact">
+            <div class="hourly">
+                <h3>Main Address</h3>
+                <p>123, Metro Street,
+                     Central Business District,
+                    Chennai – 600001, 
+                    Tamil Nadu, India.</p>
+                <a href="Localtravel.html" class="btn btn-primary">visit Now</a>
+            </div>
+
+             <div class="branch">
+                <h3>Branch Address Bangalore</h3>
+                <p>45, Sapphire Avenue, Near City Plaza,
+                    Bangalore – 560001, Karnataka, India</p>
+                <a href="Localtravel.html" class="btn btn-primary">visit Now</a>
+            </div>
+
+            <div class="hourly">
+                <h3>Main Address</h3>
+                <p>123, Metro Street,
+                     Central Business District,
+                    Chennai – 600001, 
+                    Tamil Nadu, India.</p>
+                <a href="Localtravel.html" class="btn btn-primary">visit Now</a>
+            </div>
+            <div class="hourly">
+                <h3>e-mail</h3>
+                <a href="#">driveeasechennai@gmail.com</a>
+                <br><br>
+                <a href="#">driveeasebangalore@gmail.com</a>
+                <br><br>
+                <a href="#">driveeasemain@gmail.com</a>
+                <br><br>
+            </div>
+            <div class="hourly">
+                <h3>contactus</h3>
+                <a href="#">Chennai:1234567890</a>
+                <br><br>
+                <a href="#">Bangalore:0987654321</a>
+                <br><br>
+                <a href="#">Main Branch:5432109876</a>
+                <br><br>
+            </div>
+
+              <div class="hourly">
+                <h3>contactus</h3>
+                <a href="#">facebook</a>
+                <br><br>
+                <a href="#">Instagram</a>
+                <br><br>
+                <a href="#">Twitter(X)</a>
+                <br><br>
+            </div>
+            </div>
+        
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event</title>
+    <link rel="icon" href="IMAGES/driver.png" type="image/x-icon">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-tim-samuel-5835458.jpg) no-repeat center center;
+        background-size: cover;
+        padding: 20px;
+        background-attachment: fixed;
+    }
+    
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+    ul li a:active{
+        text-decoration: underline;
+        color: white;
+    }
+
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+
+    
+    .form{
+      color: black;
+      font-weight: bold;
+      background-color: lightslategray;
+      border: none;
+      border-radius: 7px;
+      padding: 10px;
+      box-shadow: 0 2px 5px;
+      margin-right: 600px;
+    }
+
+    .form td {
+      padding: 8px 5px;
+    } 
+
+    input[type="text"],
+    input[type="password"],
+    input[type="radio"],
+    input[type="number"]{
+      padding: 6px;
+      border-radius: 7px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+    .local{
+        padding: 6px;
+        border-radius: 7px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+      padding: 6px 15px;
+       margin-top: 5px;
+      margin-bottom: 5px;
+      margin-right: 8px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(164, 164, 165);
+      color: rgb(41, 41, 202);
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+      background-color: rgb(162, 241, 43);
+    }
+
+    a {
+         margin-top: 5px;
+      margin-bottom: 5px;
+      color: #99ccff;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: rgb(162, 241, 43);
+    }
+    </style>
+<body>
+    <div class="marquee">
+            <marquee behavior="scroll" direction="left" scrollamount="10"><b>Enquire now : CHENNAI - 1234567890 ;
+                    BANGALORE - 0987654321</b></marquee>
+        </div>
+        <div>
+            <ul>
+                <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li><a href="tarrif.html">Tarrif</a></li>
+                <li><a href="About.html">AboutUs</a></li>
+            </ul>
+        </div>
+        <div align="center">
+            <table class="form">
+            <form>
+                 <tr>
+                    <td>Name  </td> <td><input type="text" placeholder="Enter Your Name" required></td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Mobile Number  </td> <td><input type="number" placeholder="Enter Mobile Number" required> </td><br> <br>
+                </tr>
+               <tr>
+                <td>City</td>
+                <td><input type="radio" name="city">Chennai 
+                <input type="radio" name="city">Bangalore</td>
+               </tr>
+               <tr>
+                <td>Req For</td>
+                <td><input type="radio" name="hire">Cab Hire 
+                <input type="radio" name="hire">Driver Hire</td>
+               </tr>
+               <tr>
+                    <td>Event Name </td> <td> <input type="text" placeholder="Enter Event Name" required> </td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Event Address </td> <td> <input type="text" placeholder="Enter Event Address" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td>Date & Time </td> <td> <input type="datetime-local" required> </td> <br> <br>
+                </tr>
+                
+                 <td></td> <td><input type="submit"><input type="reset"></td>
+                </tr>
+                </form>
+                </table>
+        </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> DriveEase 🚗</title>
+    <link rel="icon" href="logo.png" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-introspectivedsgn-17507692.jpg) no-repeat center center;
+        background-size: cover;
+        min-height: 100vh;
+        padding: 20px;
+        background-attachment: fixed;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+   header {
+    top: 0;
+    z-index: 1000;
+}
+
+
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: black;
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+    ul li a:active{
+        text-decoration: underline;
+        color: white;
+    }
+
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+
+    .login {
+        margin: 5px;
+    }
+
+    .login {
+        float: right;
+    }
+
+    .login {
+        color: black;
+        padding: 20px 20px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .login:hover {
+        text-decoration: underline;
+        color: white;
+    }
+
+    .login:active {
+        color: white;
+    }
+    .card{
+        border: none;
+        float: right;
+        background-color: gray;
+        color: white;
+    }
+
+    .form{
+      color: black;
+      font-weight: bold;
+      background-color: lightslategray;
+      border: none;
+      border-radius: 7px;
+      padding: 10px;
+      box-shadow: 0 2px 5px;
+      
+    }
+
+    .form td {
+      padding: 8px 5px;
+    } 
+
+    input[type="text"],
+    input[type="password"],
+    input[type="radio"],
+    input[type="number"],
+    input[type="datetime"],
+    .local{
+      padding: 6px;
+      border-radius: 7px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+      padding: 6px 15px;
+       margin-top: 5px;
+      margin-bottom: 5px;
+      margin-right: 8px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(164, 164, 165);
+      color: rgb(41, 41, 202);
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+      background-color: rgb(162, 241, 43);
+    }
+
+    a {
+         margin-top: 5px;
+      margin-bottom: 5px;
+      color: #99ccff;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: rgb(162, 241, 43);
+    }
+    
+</style>
+
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+    <header>
+        <div>
+            <a href="signup.html" class="login">Signup</a>
+            <a href="login.html" class="login">Login</a>
+
+        </div>
+        <div class="marquee">
+            <marquee behavior="scroll" direction="left" scrollamount="10"><b>Enquire now : CHENNAI - 1234567890 ;
+                    BANGALORE - 0987654321</b></marquee>
+        </div>
+        <div>
+            <ul>
+                <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li><a href="tarrif.html">Tarrif</a></li>
+                <li><a href="About.html">AboutUs</a></li>
+            </ul>
+        </div>
+    </header>
+    <main class="background">
+        <div class="card" style="width: 250px;">
+            <img class="card-img-top" src="pexels-tim-samuel-5835458.jpg" style="width: 100%;">
+            <div class="card-body">
+                <h4 class="card-title">Book Your Own Driver</h4>
+                <p class="card-text">You can also book your own drivers by upgrading your premium plans . we also
+                    provide lady drivers to ensure your security</p>
+                <a href="#" class="btn btn-primary">Subscribe Now</a>
+            </div>
+        </div>
+        
+    </main>
+
+        <div>
+            <table class="form">
+            <form>
+                 <tr>
+                    <td></td> <th style="font-family: Arial, Helvetica, sans-serif; color: aliceblue;">Quick Booking</th> <br> <br>
+                </tr>
+                 <tr>
+                    <td>Name  </td> <td><input type="text" placeholder="Enter Your Name" required></td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Mobile Number  </td> <td><input type="number" placeholder="Enter Mobile Number" required> </td><br> <br>
+                </tr>
+               <tr>
+                <td>City</td>
+                <td><input type="radio" name="city">Chennai 
+                <input type="radio" name="city">Bangalore</td>
+               </tr>
+               <tr>
+                <td>Req For</td>
+                <td><input type="radio" name="hire">Cab Hire 
+                <input type="radio" name="hire">Driver Hire</td>
+               </tr>
+                <tr>
+                    <td>Vehicle Type </td> <td><input type="text" placeholder="Enter Vehicle Type" required></td> <br> <br>
+                </tr>
+               <tr>
+                <td>Sevices</td>
+                <td>
+                    <select class="local">
+                        <option>Hourly or Local Trip</option>
+                        <option>Outstation or multi-day Trip</option>
+                        <option>Event and Function Parking Drivers</option>
+                        <option>Chauffeurs or Luxury Car Drivers</option>
+                        <option>Tour or Travel Drivers</option>
+                        <option>Night / Party Drivers</option>
+                        <option>Special or Heavy Vehicle Drivers</option>
+  
+                    </select>
+                </td>
+               </tr>
+                <tr>
+                    <td>Pickup Address </td> <td> <input type="text" placeholder="Enter Pickup Address" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td>Pickup Date & Time </td> <td> <input type="datetime" placeholder="Enter Pickup Date & Time" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td>Drop Off Address </td> <td> <input type="text" placeholder="Enter Drop Off Address" required> </td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Dropoff Date & Time </td> <td> <input type="datetime" placeholder="Enter Dropoff Date & Time" required> </td> <br> <br>
+                </tr>
+                
+                 <td></td> <td><input type="submit"><input type="reset"></td>
+                </tr>
+                </form>
+                </table>
+        </div>
+
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local(City Limit)</title>
+    <link rel="icon" href="IMAGES/driver.png" type="image/x-icon">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-tim-samuel-5835458.jpg) no-repeat center center;
+        background-size: cover;
+        padding: 20px;
+        background-attachment: fixed;
+    }
+    
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+    ul li a:active{
+        text-decoration: underline;
+        color: white;
+    }
+
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+
+    
+    .form{
+      color: black;
+      font-weight: bold;
+      background-color: lightslategray;
+      border: none;
+      border-radius: 7px;
+      padding: 10px;
+      box-shadow: 0 2px 5px;
+      margin-right: 600px;
+    }
+
+    .form td {
+      padding: 8px 5px;
+    } 
+
+    input[type="text"],
+    input[type="password"],
+    input[type="radio"],
+    input[type="number"]{
+      padding: 6px;
+      border-radius: 7px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+    .local{
+        padding: 6px;
+        border-radius: 7px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+      padding: 6px 15px;
+       margin-top: 5px;
+      margin-bottom: 5px;
+      margin-right: 8px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(164, 164, 165);
+      color: rgb(41, 41, 202);
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+      background-color: rgb(162, 241, 43);
+    }
+
+    a {
+         margin-top: 5px;
+      margin-bottom: 5px;
+      color: #99ccff;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: rgb(162, 241, 43);
+    }
+    </style>
+<body>
+    <div class="marquee">
+            <marquee behavior="scroll" direction="left" scrollamount="10"><b>Enquire now : CHENNAI - 1234567890 ;
+                    BANGALORE - 0987654321</b></marquee>
+        </div>
+        <div>
+            <ul>
+                <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li><a href="">Tarrif</a></li>
+                <li><a href="">AboutUs</a></li>
+            </ul>
+        </div>
+        <div align="center">
+            <table class="form">
+            <form>
+                 <tr>
+                    <td>Name  </td> <td><input type="text" placeholder="Enter Your Name" required></td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Mobile Number  </td> <td><input type="number" placeholder="Enter Mobile Number" required> </td><br> <br>
+                </tr>
+               <tr>
+                <td>City</td>
+                <td><input type="radio" name="city">Chennai 
+                <input type="radio" name="city">Bangalore</td>
+               </tr>
+               <tr>
+                <td>Req For</td>
+                <td><input type="radio" name="hire">Cab Hire 
+                <input type="radio" name="hire">Driver Hire</td>
+               </tr>
+               <tr>
+                <td>Sevices</td>
+                <td>
+                    <select class="local">
+                        <option>Hourly or Temperoary Driver</option>
+                        <option>Pickup&Drop</option>
+                        <option>Round Trip(wait&Return)</option>
+                        <option>Office Routine</option>
+  
+                    </select>
+                </td>
+               </tr>
+                <tr>
+                    <td>Pickup Address </td> <td> <input type="text" placeholder="Enter Pickup Address" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td>Drop Off Address </td> <td> <input type="text" placeholder="Enter Drop Off Address" required> </td> <br> <br>
+                </tr>
+                
+                 <td></td> <td><input type="submit"><input type="reset"></td>
+                </tr>
+                </form>
+                </table>
+        </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Acting Drivers | Login</title>
+
+  <style>
+    body {
+      margin: 0;
+      background: url(pexels-pixabay-248747.jpg) no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+      text-align: center;
+    }
+    #paragraph1 {
+      font-style: italic;
+      color: yellow;
+    }
+
+    .login {
+      width: 350px;
+      padding: 25px;
+      margin: auto;
+      margin-top: 10%;
+    }
+
+    .login td {
+      padding: 8px 5px;
+    } 
+
+    .one{
+      background-color: lightslategray;
+      padding: 10px;
+      margin: auto;
+      border: none;
+      border-radius: 7px;
+    }
+
+    input[type="text"],
+    input[type="password"] {
+      padding: 6px;
+      border-radius: 7px;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+      padding: 6px 15px;
+      margin-right: 8px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(164, 164, 165);
+      color: rgb(41, 41, 202);
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+      background-color: rgb(162, 241, 43);
+    }
+
+    a {
+      color: #99ccff;
+      text-decoration: none;
+      font-size: 14px;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: rgb(162, 241, 43);
+    }
+  </style>
+</head>
+
+<body>
+ 
+  </div>
+
+  <div class="login">
+    <form>
+      <table class="one">
+        <tr>
+          <td>Username:</td>
+          <td><input type="text" placeholder="Enter your username" required></td>
+        </tr>
+        <tr>
+          <td>Password:</td>
+          <td><input type="password" placeholder="Enter your password" required></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <input type="submit" value="Login">
+            <input type="reset" value="Reset">
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><a href="#">Forgot Password?</a></td>
+        </tr>
+      </table>
+    </form>
+  </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event</title>
+    <link rel="icon" href="IMAGES/driver.png" type="image/x-icon">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-tim-samuel-5835458.jpg) no-repeat center center;
+        background-size: cover;
+        padding: 20px;
+        background-attachment: fixed;
+    }
+    
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+    ul li a:active{
+        text-decoration: underline;
+        color: white;
+    }
+
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+
+    
+    .form{
+      color: black;
+      font-weight: bold;
+      background-color: lightslategray;
+      border: none;
+      border-radius: 7px;
+      padding: 10px;
+      box-shadow: 0 2px 5px;
+      margin-right: 600px;
+    }
+
+    .form td {
+      padding: 8px 5px;
+    } 
+
+    input[type="text"],
+    input[type="password"],
+    input[type="radio"],
+    input[type="number"]{
+      padding: 6px;
+      border-radius: 7px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+    .local{
+        padding: 6px;
+        border-radius: 7px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+      padding: 6px 15px;
+       margin-top: 5px;
+      margin-bottom: 5px;
+      margin-right: 8px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(164, 164, 165);
+      color: rgb(41, 41, 202);
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+      background-color: rgb(162, 241, 43);
+    }
+
+    a {
+         margin-top: 5px;
+      margin-bottom: 5px;
+      color: #99ccff;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: rgb(162, 241, 43);
+    }
+    </style>
+<body>
+    <div class="marquee">
+            <marquee behavior="scroll" direction="left" scrollamount="10"><b>Enquire now : CHENNAI - 1234567890 ;
+                    BANGALORE - 0987654321</b></marquee>
+        </div>
+        <div>
+            <ul>
+                <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li><a href="tarrif.html">Tarrif</a></li>
+                <li><a href="About.html">AboutUs</a></li>
+            </ul>
+        </div>
+        <div align="center">
+            <table class="form">
+            <form>
+                 <tr>
+                    <td>Name  </td> <td><input type="text" placeholder="Enter Your Name" required></td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Mobile Number  </td> <td><input type="number" placeholder="Enter Mobile Number" required> </td><br> <br>
+                </tr>
+               <tr>
+                <td>City</td>
+                <td><input type="radio" name="city">Chennai 
+                <input type="radio" name="city">Bangalore</td>
+               </tr>
+               <tr>
+                <td>Req For</td>
+                <td><input type="radio" name="hire">Cab Hire 
+                <input type="radio" name="hire">Driver Hire</td>
+               </tr>
+               <tr>
+                    <td>Car Name & Model</td> <td> <input type="text" placeholder="Enter Car Name & Model" required> </td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Pickup Address </td> <td> <input type="text" placeholder="Enter Pickup Address" required> </td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Dropoff Address </td> <td> <input type="text" placeholder="Enter Dropoff Address" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td>Pickup Date & Time </td> <td> <input type="datetime-local" required> </td> <br> <br>
+                </tr>
+                
+                 <td></td> <td><input type="submit"><input type="reset"></td>
+                </tr>
+                </form>
+                </table>
+        </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MultiDay Trip</title>
+    <link rel="icon" href="IMAGES/driver.png" type="image/x-icon">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-tim-samuel-5835458.jpg) no-repeat center center;
+        background-size: cover;
+        padding: 20px;
+        background-attachment: fixed;
+    }
+    
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+    ul li a:active{
+        text-decoration: underline;
+        color: white;
+    }
+
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+
+    
+    .form{
+      color: black;
+      font-weight: bold;
+      background-color: lightslategray;
+      border: none;
+      border-radius: 7px;
+      padding: 10px;
+      box-shadow: 0 2px 5px;
+      margin-right: 600px;
+    }
+
+    .form td {
+      padding: 8px 5px;
+    } 
+
+    input[type="text"],
+    input[type="password"],
+    input[type="radio"],
+    input[type="number"]{
+      padding: 6px;
+      border-radius: 7px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+   
+    input[type="submit"],
+    input[type="reset"] {
+      padding: 6px 15px;
+       margin-top: 5px;
+      margin-bottom: 5px;
+      margin-right: 8px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(164, 164, 165);
+      color: rgb(41, 41, 202);
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+      background-color: rgb(162, 241, 43);
+    }
+
+    a {
+         margin-top: 5px;
+      margin-bottom: 5px;
+      color: #99ccff;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: rgb(162, 241, 43);
+    }
+    </style>
+<body>
+    <div class="marquee">
+            <marquee behavior="scroll" direction="left" scrollamount="10"><b>Enquire now : CHENNAI - 1234567890 ;
+                    BANGALORE - 0987654321</b></marquee>
+        </div>
+        <div>
+            <ul>
+                <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li><a href="">Tarrif</a></li>
+                <li><a href="">AboutUs</a></li>
+            </ul>
+        </div>
+        <div align="center">
+            <table class="form">
+            <form>
+                 <tr>
+                    <td>Name  </td> <td><input type="text" placeholder="Enter Your Name" required></td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Mobile Number  </td> <td><input type="number" placeholder="Enter Mobile Number" required> </td><br> <br>
+                </tr>
+               <tr>
+                <td>City</td>
+                <td><input type="radio" name="city">Chennai 
+                <input type="radio" name="city">Bangalore</td>
+               </tr>
+               <tr>
+                <td>Req For</td>
+                <td><input type="radio" name="hire">Cab Hire 
+                <input type="radio" name="hire">Driver Hire</td>
+               </tr>
+                <tr>
+                    <td>Pickup Address </td> <td> <input type="text" placeholder="Enter Pickup Address" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td> DropOff Place</td> <td> <input type="text" placeholder="Enter Your Destination Point" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td>PickUp Date & Time </td> <td> <input type="datetime-local" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td>DropOff Date</td> <td> <input type="date" required> </td> <br> <br>
+                </tr>
+                
+                 <td></td> <td><input type="submit"><input type="reset"></td>
+                </tr>
+                </form>
+                </table>
+        </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Night or Party Drivers</title>
+    <link rel="icon" href="IMAGES/driver.png" type="image/x-icon">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-tim-samuel-5835458.jpg) no-repeat center center;
+        background-size: cover;
+        padding: 20px;
+        background-attachment: fixed;
+    }
+    
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+    ul li a:active{
+        text-decoration: underline;
+        color: white;
+    }
+
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+
+    
+    .form{
+      color: black;
+      font-weight: bold;
+      background-color: lightslategray;
+      border: none;
+      border-radius: 7px;
+      padding: 10px;
+      box-shadow: 0 2px 5px;
+      margin-right: 600px;
+    }
+
+    .form td {
+      padding: 8px 5px;
+    } 
+
+    input[type="text"],
+    input[type="password"],
+    input[type="radio"],
+    input[type="number"]{
+      padding: 6px;
+      border-radius: 7px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+    .local{
+        padding: 6px;
+        border-radius: 7px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+      padding: 6px 15px;
+       margin-top: 5px;
+      margin-bottom: 5px;
+      margin-right: 8px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(164, 164, 165);
+      color: rgb(41, 41, 202);
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+      background-color: rgb(162, 241, 43);
+    }
+
+    a {
+         margin-top: 5px;
+      margin-bottom: 5px;
+      color: #99ccff;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: rgb(162, 241, 43);
+    }
+    </style>
+<body>
+    <div class="marquee">
+            <marquee behavior="scroll" direction="left" scrollamount="10"><b>Enquire now : CHENNAI - 1234567890 ;
+                    BANGALORE - 0987654321</b></marquee>
+        </div>
+        <div>
+            <ul>
+                <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li><a href="">Tarrif</a></li>
+                <li><a href="">AboutUs</a></li>
+            </ul>
+        </div>
+        <div align="center">
+            <table class="form">
+            <form>
+                 <tr>
+                    <td>Name  </td> <td><input type="text" placeholder="Enter Your Name" required></td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Mobile Number  </td> <td><input type="number" placeholder="Enter Mobile Number" required> </td><br> <br>
+                </tr>
+               <tr>
+                <td>City</td>
+                <td><input type="radio" name="city">Chennai 
+                <input type="radio" name="city">Bangalore</td>
+               </tr>
+               <tr>
+                <td>Req For</td>
+                <td><input type="radio" name="hire">Cab Hire 
+                <input type="radio" name="hire">Driver Hire</td>
+               </tr>
+                <tr>
+                    <td>Pickup Address </td> <td> <input type="text" placeholder="Enter Pickup Address" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td>Drop Off Address </td> <td> <input type="text" placeholder="Enter Drop Off Address" required> </td> <br> <br>
+                </tr>
+                
+                 <td></td> <td><input type="submit"><input type="reset"></td>
+                </tr>
+                </form>
+                </table>
+        </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+<style>
+     body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-introspectivedsgn-17507692.jpg) no-repeat center center;
+        background-size: cover;
+        min-height: 100vh;
+        padding: 20px;
+        background-attachment: fixed;
+    }
+       ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: black;
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+    ul li a:active{
+        text-decoration: underline;
+        color: white;
+    }
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+    .service{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 10%;
+        padding: 10px;
+        justify-content: center;
+        gap: 100px;
+    }
+    .hourly{
+        background-color: white;
+        padding: 20px;
+        width: 350px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px;
+        color: black;
+        margin-bottom: 40px;
+    }
+     .outstation{
+        background-color: white;
+        padding: 20px;
+        width: 350px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px;
+        color: black;
+         margin-bottom: 40px;
+    }
+     .corporate {
+        background-color: white;
+        padding: 20px;
+        width: 350px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px;
+        color: black;
+         margin-bottom: 40px;
+    }
+    .event {
+        background-color: white;
+        padding: 20px;
+        width: 350px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px;
+        color: black;
+         margin-bottom: 40px;
+    }
+    .luxury {
+        background-color: white;
+        padding: 20px;
+        width: 350px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px;
+        color: black;
+         margin-bottom: 40px;
+    }
+     .tour {
+        background-color: white;
+        padding: 20px;
+        width: 350px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px;
+        color: black;
+         margin-bottom: 40px;
+    }
+     .night {
+        background-color: white;
+        padding: 20px;
+        width: 350px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px;
+        color: black;
+         margin-bottom: 40px;
+    }
+     .party {
+        background-color: white;
+        padding: 20px;
+        width: 350px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px;
+        color: black;
+         margin-bottom: 40px;
+    }
+    .heavy {
+        background-color: white;
+        padding: 20px;
+        width: 350px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px;
+        color: black;
+         margin-bottom: 40px;
+    }
+     .hourly:hover{
+      transform: translateY(-10px);
+      background-color: rgb(213, 233, 235);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+     .outstation:hover{
+      transform: translateY(-10px);
+      background-color: rgb(213, 233, 235);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+     .corporate:hover{
+      transform: translateY(-10px);
+      background-color: rgb(213, 233, 235);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+     .event:hover{
+      transform: translateY(-10px);
+      background-color: rgb(213, 233, 235);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+     .luxury:hover{
+      transform: translateY(-10px);
+      background-color: rgb(213, 233, 235);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+     .tour:hover{
+      transform: translateY(-10px);
+      background-color: rgb(213, 233, 235);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+     .night:hover{
+      transform: translateY(-10px);
+     background-color: rgb(213, 233, 235);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+     .party:hover{
+      transform: translateY(-10px);
+      background-color: rgb(213, 233, 235);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+     .heavy:hover{
+      transform: translateY(-10px);
+      background-color: rgb(213, 233, 235);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+</style>
+
+<body>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+
+        
+        </div>
+        <div class="marquee">
+            <marquee behavior="scroll" direction="left" scrollamount="10"><b>Enquire now : CHENNAI - 1234567890 ;
+                    BANGALORE - 0987654321</b></marquee>
+        </div>
+        <div>
+            <ul>
+                <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li><a href="tarrif.html">Tarrif</a></li>
+                <li><a href="About.html">AboutUs</a></li>
+
+            </ul>
+        </div>
+
+
+    <section align="center">
+        <h2>Our Services</h2> <br><br><br>
+        <div class="service">
+            <br><br>
+
+            <div class="hourly">
+                <h3>Hourly or Local Trip</h3>
+                <p>Hire a driver for short trips, shopping, or meetings inside city limits.</p>
+                <a href="Localtravel.html" class="btn btn-primary">Book Now</a>
+            </div>
+
+            <div class="outstation">
+                <h3>Outstation or multi-day Trip</h3>
+                <p>Book drivers for long-distance and multi-day journeys.</p>
+                <a href="multidaytrip.html" class="btn btn-primary">Book Now</a>
+            </div>
+
+            <div class="event">
+                <h3>Event and Function Parking Drivers</h3>
+                <p>Professional drivers for your business requirements and business meetings.</p>
+                <a href="event.html" class="btn btn-primary">Book Now</a>
+            </div>
+
+             <div class="luxury">
+                <h3>Chauffeurs or Luxury Car Drivers</h3>
+                <p>Professional drivers for your business requirements and business meetings.</p>
+                <a href="luxuartcardriver.html" class="btn btn-primary">Book Now</a>
+            </div>
+
+             <div class="tour">
+                <h3>Tour or Travel Drivers</h3>
+                <p>Professional drivers for your business requirements and business meetings.</p>
+                <a href="tour.html" class="btn btn-primary">Book Now</a>
+            </div>
+
+            <div class="night">
+                <h3>Night / Party Drivers</h3>
+                <p>Professional drivers for your business requirements and business meetings.</p>
+                <a href="nightparty.html" class="btn btn-primary">Book Now</a>
+            </div>
+
+             <div class="heavy">
+                <h3>Special or Heavy Vehicle Drivers</h3>
+                <p>Professional drivers for your business requirements and business meetings.</p>
+                <a href="specialdrivers.html" class="btn btn-primary">Book Now</a>
+            </div>
+        </div>
+    </section>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup Page</title>
+    <link rel="icon" href="IMAGES/driver.png" type="image/x-icon">
+</head>
+<style>
+    body {
+      margin: 0;
+      background: url(pexels-pixabay-248747.jpg) no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+      text-align: center;
+    }
+    #paragraph1 {
+      font-style: italic;
+      color: yellow;
+    }
+
+    .one{
+      background-color: lightslategray;
+      padding: 10px;
+      margin: auto;
+      border: none;
+      border-radius: 7px;
+    }
+
+    .form{
+      width: 350px;
+      margin: auto;
+      padding: 25px;
+    }
+
+    .form td {
+      padding: 8px 5px;
+    } 
+
+    input[type="text"],
+    input[type="password"],
+    input[type="email"],
+    input[type="number"] {
+      padding: 6px;
+      border-radius: 7px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+      padding: 6px 15px;
+       margin-top: 5px;
+      margin-bottom: 5px;
+      margin-right: 8px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(164, 164, 165);
+      color: rgb(41, 41, 202);
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+      background-color: rgb(162, 241, 43);
+    }
+
+    a {
+         margin-top: 5px;
+      margin-bottom: 5px;
+      color: #99ccff;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: rgb(162, 241, 43);
+    }
+  </style>
+<body>
+        <div align="center">
+            <table class="one">
+            <form class="form">
+                <tr>
+                    <td> First Name : </td> <td><input type="text" placeholder="Enter Your First Name" required> </td> <br> <br>
+                </tr>
+                <tr>
+                    <td>last Name : </td> <td><input type="text" placeholder="Enter Your Last Name" required></td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Email ID : </td> <td> <input type="email" placeholder="Enter Your Mail ID" required> </td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Mobile Number : </td> <td><input type="number" placeholder="Enter Your Mobile Number" required> </td><br> <br>
+                </tr>
+                <tr>
+                    <td>Password : </td> <td><input type="password" placeholder="Enter Password " required> </td> <br> <br>
+                </tr>
+                <tr>
+                    <td></td> <td><input type="submit"><input type="reset"></td>
+                </tr>
+                <br> <br>
+                <tr>
+               <td></td> <td><a href="">already have an account</a></td>
+                </tr>
+            </form>
+            </table>
+        </div>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local(City Limit)</title>
+    <link rel="icon" href="IMAGES/driver.png" type="image/x-icon">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-tim-samuel-5835458.jpg) no-repeat center center;
+        background-size: cover;
+        padding: 20px;
+        background-attachment: fixed;
+    }
+    
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+    ul li a:active{
+        text-decoration: underline;
+        color: white;
+    }
+
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+
+    
+    .form{
+      color: black;
+      font-weight: bold;
+      background-color: lightslategray;
+      border: none;
+      border-radius: 7px;
+      padding: 10px;
+      box-shadow: 0 2px 5px;
+      margin-right: 600px;
+    }
+
+    .form td {
+      padding: 8px 5px;
+    } 
+
+    input[type="text"],
+    input[type="password"],
+    input[type="radio"],
+    input[type="number"]{
+      padding: 6px;
+      border-radius: 7px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+    .local{
+        padding: 6px;
+        border-radius: 7px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+      padding: 6px 15px;
+       margin-top: 5px;
+      margin-bottom: 5px;
+      margin-right: 8px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(164, 164, 165);
+      color: rgb(41, 41, 202);
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+      background-color: rgb(162, 241, 43);
+    }
+
+    a {
+         margin-top: 5px;
+      margin-bottom: 5px;
+      color: #99ccff;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: rgb(162, 241, 43);
+    }
+    </style>
+<body>
+    <div class="marquee">
+            <marquee behavior="scroll" direction="left" scrollamount="10"><b>Enquire now : CHENNAI - 1234567890 ;
+                    BANGALORE - 0987654321</b></marquee>
+        </div>
+        <div>
+            <ul>
+                <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li><a href="">Tarrif</a></li>
+                <li><a href="">AboutUs</a></li>
+            </ul>
+        </div>
+        <div align="center">
+            <table class="form">
+            <form>
+                 <tr>
+                    <td>Name  </td> <td><input type="text" placeholder="Enter Your Name" required></td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Mobile Number  </td> <td><input type="number" placeholder="Enter Mobile Number" required> </td><br> <br>
+                </tr>
+               <tr>
+                <td>City</td>
+                <td><input type="radio" name="city">Chennai 
+                <input type="radio" name="city">Bangalore</td>
+               </tr>
+               <tr>
+                <td>Req For</td>
+                <td><input type="radio" name="hire">Cab Hire 
+                <input type="radio" name="hire">Driver Hire</td>
+               </tr>
+                <tr>
+                    <td>Vehicle Type </td> <td><input type="text" placeholder="Enter Vehicle Type" required></td> <br> <br>
+                </tr>
+               <tr>
+                <td>Sevices</td>
+                <td>
+                    <select class="local">
+                        <option>Hourly or Temperoary Driver</option>
+                        <option>Pickup&Drop</option>
+                        <option>Round Trip(Wait&Return)</option>
+                        <option>Outstation Trip</option>
+  
+                    </select>
+                </td>
+               </tr>
+                <tr>
+                    <td>Pickup Address </td> <td> <input type="text" placeholder="Enter Pickup Address" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td>Drop Off Address </td> <td> <input type="text" placeholder="Enter Drop Off Address" required> </td> <br> <br>
+                </tr>
+                
+                 <td></td> <td><input type="submit"><input type="reset"></td>
+                </tr>
+                </form>
+                </table>
+        </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ACTING DRIVERS 🚗</title>
+    <link rel="icon" href="IMAGES/driver.png" type="image/x-icon">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-introspectivedsgn-17507692.jpg) no-repeat center center;
+        background-size: cover;
+        min-height: 100vh;
+        padding: 20px;
+        background-attachment: fixed;
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, 
+                    "Noto Sans", "Liberation Sans", sans-serif, 
+                    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    }
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: black;
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+    ul li a:active{
+        text-decoration: underline;
+        color: white;
+    }
+
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+    .table1{
+        box-shadow: 0px 2px 5px ;
+        background-color: rgb(226, 235, 238);
+    }
+    .table1:hover{
+        transform: translateY(-10px);
+        background-color: rgb(213, 233, 235);
+        box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    }
+    </style>
+<body>
+        <marquee behavior="scroll" direction="left" scrollamount="20"><b>Enquire now : CHENNAI - 1234567890 ; BANGALORE - 0987654321</b></marquee>
+        <br><br> 
+
+        <div>
+            <ul>
+                <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li><a href="tarrif.html">Tarrif</a></li>
+                <li><a href="About.html">AboutUs</a></li>
+            </ul>
+        </div>
+    <div>
+        <center>
+            <table  class="table1" border="1" style="border-collapse: collapse;" cellpadding="20">
+                <tr>
+                    <th colspan="3" style="color: rgb(48, 86, 145); font-size: larger; font-weight: bolder;">Hourly or Local Trip</th>
+                </tr>
+                <tr>
+                    <th>Services</th>
+                    <th>Time(Min Hrs) / Distance(Min kms)</th>
+                    <th>Price (Starting From)</th>
+                </tr>
+                <tr>
+                    <td><b>Hourly or Temperoary Driver</b></td>
+                    <td>4 Hours Minimum</td>
+                    <td>Rs.400 (Extra Rs.80 for every extended hour)</td>
+                </tr>
+                <tr>
+                    <td><b> Pickup&Drop</b></td>
+                    <td>2 hours each way / 0-25kms</td>
+                    <td>Rs.500 / Rs.25 Per km </td>
+                </tr>
+                <tr>
+                    <td><b>Round Trip(wait&Return)</b></td>
+                    <td>4 Hours Minimum </td>
+                    <td>Rs.400 (Extra Rs.80 for every extended hour) </td>
+                </tr>
+                <tr>
+                    <td><b>Office Routine (Morning pickup & Night Drop) (Monthly Contract)</b></td>
+                    <td>0-30km / Min Rs.2000 per Month</td>
+                    <td> Rs.25 per km</td>
+                </tr>
+            </table>
+        </center>
+        <br> <br> <br>
+    </div>
+    <div>
+        <center>
+            <table  class="table1" border="1" style="border-collapse: collapse;" cellpadding="20">
+                <tr>
+                    <th colspan="3" style="color: rgb(48, 86, 145); font-size: larger; font-weight: bolder;">Outstation or multi-day Trip</th>
+                </tr>
+                <tr>
+                    <th>Services</th>
+                    <th>Time(Min Hrs) / Distance(Min kms)</th>
+                    <th>Price (Starting From)</th>
+                </tr>
+                <tr>
+                    <td><b>Oneway Outstattion Service (12hrs)</b></td>
+                    <td> Min of 200km </td>
+                    <td>Rs.1200 (Extra Rs.200 for every extra 20 kms) </td>
+                </tr>
+                <tr>
+                    <td><b>Round Trip(Same Day Return)</b></td>
+                    <td>200kms-300kms </td>
+                    <td>Rs.1500 - Rs. 2000 (Extra Rs.200 for every extra 20 kms) </td>
+                </tr>
+                <tr>
+                    <td><b>InterState Travel</b></td>
+                    <td> Based on kms and Days </td>
+                    <td>Rs.1200-1500 per day </td>
+                </tr>
+                <tr>
+                    <td><b>Tourism & Pilgrimage </b></td>
+                    <td>Based on kms and Days </td>
+                    <td>Rs.1200-1500 per day </td>
+                </tr>
+            </table>
+            <br><br>
+    </div>
+
+    <div>
+        <center>
+            <table  class="table1" border="1" style="border-collapse: collapse;" cellpadding="20">
+                 <tr>
+                    <th colspan="3" style="color: rgb(48, 86, 145); font-size: larger; font-weight: bolder;">Other Services</th>
+                </tr>
+                <tr>
+                    <th>Services</th>
+                    <th>Time(Min Hrs) / Distance(Min kms)</th>
+                    <th>Price (Starting From)</th>
+                </tr>
+                <tr>
+                    <td><b>Event and Function Parking </b></td>
+                    <td> 6 Hours Minimum </td>
+                    <td>Rs.800 (Extra Rs.100 for every extra Hour) </td>
+                </tr>
+                <tr>
+                    <td><b>Night Party/ Drink and Drive Safety</b></td>
+                    <td>min of 30kms </td>
+                    <td> Rs.40 per km </td>
+                </tr>
+                <tr>
+                    <td><b>Airport or Railway Station Service</b></td>
+                    <td> Based on kms </td>
+                    <td>MIn Rs.25 per km </td>
+                </tr>
+                <tr>
+                    <td><b>Chauffeurs or Luxury Car Drivers</b></td>
+                    <td> Based on kms </td>
+                    <td>MIn Rs.45 per km </td>
+                </tr>
+                <tr>
+                    <td><b>Special or Heavy Vehicle Drivers</b></td>
+                    <td> Based on kms </td>
+                    <td>MIn Rs.30 per km </td>
+                </tr>
+            </table>
+            <br><br>
+    </div>
+    <div align="center">
+        <a href="About.html">About Us</a>
+        <a href="contact.html">Contact </a>
+
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tour</title>
+    <link rel="icon" href="IMAGES/driver.png" type="image/x-icon">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: url(pexels-tim-samuel-5835458.jpg) no-repeat center center;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    
+    ul {
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    ul li {
+        float: left;
+    }
+
+    ul li a {
+        display: block;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        padding: 30px 30px;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    ul li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+    ul li a:active{
+        text-decoration: underline;
+        color: white;
+    }
+
+
+    .marquee {
+        text-align: center;
+        color: black;
+        padding-top: 10px;
+    }
+
+    
+    .form{
+      color: black;
+      font-weight: bold;
+      background-color: lightslategray;
+      border: none;
+      border-radius: 7px;
+      padding: 10px;
+      box-shadow: 0 2px 5px;
+      margin-right: 600px;
+    }
+
+    .form td {
+      padding: 8px 5px;
+    } 
+
+    input[type="text"],
+    input[type="password"],
+    input[type="radio"],
+    input[type="number"]{
+      padding: 6px;
+      border-radius: 7px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+   
+    input[type="submit"],
+    input[type="reset"] {
+      padding: 6px 15px;
+       margin-top: 5px;
+      margin-bottom: 5px;
+      margin-right: 8px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(164, 164, 165);
+      color: rgb(41, 41, 202);
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+      background-color: rgb(162, 241, 43);
+    }
+
+    a {
+         margin-top: 5px;
+      margin-bottom: 5px;
+      color: #99ccff;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: rgb(162, 241, 43);
+    }
+    </style>
+<body>
+    <div class="marquee">
+            <marquee behavior="scroll" direction="left" scrollamount="10"><b>Enquire now : CHENNAI - 1234567890 ;
+                    BANGALORE - 0987654321</b></marquee>
+        </div>
+        <div>
+            <ul>
+                <li><img src="logo.png" alt="logo" width="100px" height="75px"></li>
+                <li><a href="homepage.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contactus.html">Contact</a></li>
+                <li><a href="">Tarrif</a></li>
+                <li><a href="">AboutUs</a></li>
+            </ul>
+        </div>
+        <div align="center">
+            <table class="form">
+            <form>
+                 <tr>
+                    <td>Name  </td> <td><input type="text" placeholder="Enter Your Name" required></td> <br> <br>
+                </tr>
+                <tr>
+                    <td>Mobile Number  </td> <td><input type="number" placeholder="Enter Mobile Number" required> </td><br> <br>
+                </tr>
+               <tr>
+                <td>City</td>
+                <td><input type="radio" name="city">Chennai 
+                <input type="radio" name="city">Bangalore</td>
+               </tr>
+               <tr>
+                <td>Req For</td>
+                <td><input type="radio" name="hire">Cab Hire 
+                <input type="radio" name="hire">Driver Hire</td>
+               </tr>
+                <tr>
+                    <td>Pickup Address </td> <td> <input type="text" placeholder="Enter Pickup Address" required> </td> <br> <br>
+                </tr>
+                <tr>
+                    <td>PickUp Date & Time </td> <td> <input type="datetime-local" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td> Number of Days</td>  </td> <td><input type="number" placeholder="Enter Number Of Days" required> </td><br> <br>
+                </tr>
+                 <tr>
+                    <td> DropOff Place</td> <td> <input type="text" placeholder="Enter Your Destination Point" required> </td> <br> <br>
+                </tr>
+                 <tr>
+                    <td>DropOff Date</td> <td> <input type="date" required> </td> <br> <br>
+                </tr>
+                
+                 <td></td> <td><input type="submit"><input type="reset"></td>
+                </tr>
+                </form>
+                </table>
+        </div>
+
+</body>
+</html>
